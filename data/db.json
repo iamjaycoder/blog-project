@@ -1,0 +1,22 @@
+{
+  "Blogs": [
+    {
+      "title": "Diversity In Christianity",
+      "body": "One of the major issues confronting churches today!",
+      "author": "jayvybz",
+      "id": 1
+    },
+    {
+      "title": "This Thing Called Marriage",
+      "body": "Loving someone I believe is one thing, but having to be with that person and share a space and face the struggle of life together is were the conflict comes in",
+      "author": "oyetola",
+      "id": 2
+    },
+    {
+      "title": "Law Of Karma?!..",
+      "body": "Can we really say it exists?.. Do people really suffer for the bad things dey have done in the past?.. ",
+      "author": "jayvybz",
+      "id": 3
+    }
+  ]
+}
